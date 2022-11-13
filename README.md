@@ -15,15 +15,15 @@ For the curious reviewer, the misc folder contains what I did during the first 2
 
 <center>
 
-![Neural Network GradCAM](Images\nn_grad.png "Neural Network GradCAM")
-![Tensorised Neural Network GradCAM](Images\tn_grad.png "Tensorised Neural Network GradCAM")
+![Neural Network GradCAM](https://raw.githubusercontent.com/antoine311200/Hackaton-Interpretability/master/Images/nn_grad.png "Neural Network GradCAM")
+![Tensorised Neural Network GradCAM](https://raw.githubusercontent.com/antoine311200/Hackaton-Interpretability/master/Images/tn_grad.png "Tensorised Neural Network GradCAM")
 
 </center>
 
 <center>
 
-![Neural Network SmoothGrad](Images\nn_sal.png "Neural Network SmoothGrad")
-![Tensorised Neural Network SmoothGrad](Images\tn_sal.png "Tensorised Neural Network SmoothGrad")
+![Neural Network SmoothGrad](https://raw.githubusercontent.com/antoine311200/Hackaton-Interpretability/master/Images/nn_sal.png "Neural Network SmoothGrad")
+![Tensorised Neural Network SmoothGrad](https://raw.githubusercontent.com/antoine311200/Hackaton-Interpretability/master/Images/tn_sal.png "Tensorised Neural Network SmoothGrad")
 
 </center>
 
